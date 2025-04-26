@@ -1,5 +1,5 @@
 import React from 'react';
-import Todo from './component/Todo';
+
 import Des from './component/Des';
 import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer } from 'react-toastify';
